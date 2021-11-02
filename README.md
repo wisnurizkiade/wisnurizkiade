@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wisnurizkiade
-- 👀 I’m interested in Network Engineering
-- 🌱 I’m currently learning System Administrator
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Solana Blockchain
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
